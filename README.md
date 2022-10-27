@@ -101,3 +101,10 @@ Final URL: `https://los.rubiya.kr/chall/goblin_e5afb87a6716708e3af46a849517afdc.
 Human Readable: `https://los.rubiya.kr/chall/goblin_e5afb87a6716708e3af46a849517afdc.php?no=2 OR no=2`
 
 Final Query: `select id from prob_goblin where (id='guest' and no=2) OR no=2`
+
+### Thanks for Reading!
+
+Have a bowl of udon and sashimi!
+
+<img src="https://4.bp.blogspot.com/-s9haeFPrRc0/U5hUac1x-SI/AAAAAAAAhI4/Ob9UAm8_sMk/s400/bukkake_udon.png" width=200px>
+<img src="https://4.bp.blogspot.com/-NHTUWbcy_Wc/VMIt3Ie-4BI/AAAAAAAAqzY/gkFCt304v4k/s400/sashimi_hamachi.png" width=150px>
